@@ -25,7 +25,8 @@ cd arithmetic_project
 ```
 
 ### 2. Run the main program
-```bash
+```
+bash
 python main.py
 ```
 
