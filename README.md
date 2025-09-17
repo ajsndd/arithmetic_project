@@ -30,4 +30,4 @@ python main.py
 ```
 
 ## 👨‍💻 Author
-- [AJEESH SAHADEVAN](https://github.com/ajsndd)  
+- [Ajeesh Sahadevan](https://github.com/ajsndd)  
