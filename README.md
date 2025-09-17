@@ -20,7 +20,7 @@ arithmetic_project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ajsndd/arithmetic_project.git
+git clone git@github.com:ajsndd/arithmetic_project.git
 cd arithmetic_project
 ```
 
